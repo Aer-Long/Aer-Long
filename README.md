@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aer-Long
 - 👀 I’m interested in entrepreneurship, technology and gardening!
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning front end development.
 - 💞️ I’m looking to collaborate on cool apps and green technology.
 - 📫 Shoot me a email: aerbot@protonmail.com
 
